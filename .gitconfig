@@ -36,8 +36,8 @@ ignorecase = false
 fileMode   = false
 editor     = vi
 
-[credential]
-helper = osxkeychain
+#[credential]
+#helper = osxkeychain
 
 # [http]
 # proxy = http://proxy.example.com:8080
